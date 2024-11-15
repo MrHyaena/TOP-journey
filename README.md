@@ -5,4 +5,8 @@ I am creating restaurant page project, where I create elements using DOM manipul
 <br>- Created function for manipulating homepage DOM.
 <br>- Connected menu.js and about.js to other files
 
+<h3>React course</h3>
+<h4>15.11.2024</h4>
+First steps in React.
+
 
