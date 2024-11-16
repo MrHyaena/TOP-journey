@@ -8,5 +8,6 @@ I am creating restaurant page project, where I create elements using DOM manipul
 <h3>React course</h3>
 <h4>15.11.2024</h4>
 First steps in React.
-
+<h4>16.11.2024</h4>
+Learning about useState.
 
