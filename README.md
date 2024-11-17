@@ -10,4 +10,5 @@ I am creating restaurant page project, where I create elements using DOM manipul
 First steps in React.
 <h4>16.11.2024</h4>
 Learning about useState.
-
+<h4>16.11.2024</h4>
+Wroking with useState and trying to learn debugging.
