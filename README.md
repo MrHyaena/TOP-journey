@@ -12,3 +12,5 @@ First steps in React.
 Learning about useState.
 <h4>16.11.2024</h4>
 Wroking with useState and trying to learn debugging.
+<h4>26.11.2024</h4>
+I finished eshop project and started Databases module
