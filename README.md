@@ -14,3 +14,5 @@ Learning about useState.
 Wroking with useState and trying to learn debugging.
 <h4>26.11.2024</h4>
 I finished eshop project and started Databases module
+<h4>1.12.2024</h4>
+Sucessful deployment of a full stack app on Koyeb and MongoDB
