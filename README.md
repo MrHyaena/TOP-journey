@@ -16,3 +16,6 @@ Wroking with useState and trying to learn debugging.
 I finished eshop project and started Databases module
 <h4>1.12.2024</h4>
 Sucessful deployment of a full stack app on Koyeb and MongoDB
+<h4>9.12.2024</h4>
+Trying to decide if I should use tailwind or not
+
