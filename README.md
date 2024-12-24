@@ -20,4 +20,7 @@ Sucessful deployment of a full stack app on Koyeb and MongoDB
 Trying to decide if I should use tailwind or not
 <h4>22.12.2024</h4>
 TRelax, working on my own project
+<h4>24.12.2024</h4>
+TRelax, Christmas
+
 
