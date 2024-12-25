@@ -19,8 +19,10 @@ Sucessful deployment of a full stack app on Koyeb and MongoDB
 <h4>9.12.2024</h4>
 Trying to decide if I should use tailwind or not
 <h4>22.12.2024</h4>
-TRelax, working on my own project
+Relax, working on my own project
 <h4>24.12.2024</h4>
-TRelax, Christmas
+Relax, Christmas
+<h4>25.12.2024</h4>
+Relax, after Christmas
 
 
