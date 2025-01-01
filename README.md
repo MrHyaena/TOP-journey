@@ -27,4 +27,5 @@ Relax, after Christmas
 <h4>New Year.12.2024</h4>
 Relax, after Christmas
 NewYear EVEgello
+last free day
 
